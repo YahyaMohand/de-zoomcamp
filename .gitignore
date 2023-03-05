@@ -84,3 +84,9 @@ week3/data/yellow/yellow_tripdata_2020-10.csv
 week3/data/yellow/yellow_tripdata_2020-11.csv
 week3/data/yellow/yellow_tripdata_2020-12.csv
 week2/flows/yellow_tripdata_2021-01.csv.gz
+week5/application/spark_app/README.md
+week5/application/spark_app/etl/main.py
+week5/application/spark_app/notebooks/FVHV Trip Data.ipynb
+week5/application/spark_app/notebooks/High Volume For-Hire Vehicle Trip Records.ipynb
+week5/application/spark_app/notebooks/Spark SQL.ipynb
+week5/application/spark_app/notebooks/Yellow And Green Taxi Data.ipynb
